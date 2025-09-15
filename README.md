@@ -47,5 +47,5 @@ if (response.body() != null) {
 - [Arquitectura recomendada Android](https://developer.android.com/jetpack/guide)
 
 ## Autor
-GitHub Copilot
+Estudiantes de la UPC - Curso de Desarrollo de Aplicaciones Móviles - Ing Software
 
